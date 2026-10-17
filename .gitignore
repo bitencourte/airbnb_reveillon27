@@ -1,0 +1,5 @@
+# respostas brutas das APIs (grandes e regeneráveis)
+cache/
+__pycache__/
+*.pyc
+.DS_Store
